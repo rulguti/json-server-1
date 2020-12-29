@@ -1,9 +1,29 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "Example Json Server",
+      "author": "Raúl Gutiérrez"
+    },
+    {
+      "id": 2,
+      "title": "Example Json Server id2",
+      "author": "Raúl Gutiérrez Ayuela"
+    },
+    {
+      "id": 3,
+      "title": "where is the best",
+      "author": "Yo mismos"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "Happy Testing",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "Rul"
+  }
 }
